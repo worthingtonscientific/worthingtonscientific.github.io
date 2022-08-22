@@ -9,9 +9,13 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-gH2yIJqKdNHPEq0n4Mqa/HGKIhSkIHeL5AyhkYV8i59U5AR6csBvApHHNl/vI1Bx" crossorigin="anonymous">
   </head>
   <body>
-    <div class="container p-5">
+    <div class="container p-5 g-0">
       {% include breadcrumbs.md %}
-      
+      </div>
+      <div class="container g-0">
+        <img src={{page.splash}} width="800px" />
+      </div>
+    <div class="container p-5 g-0">
         {{content}}      
     
 </div>
