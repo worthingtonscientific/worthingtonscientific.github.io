@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: root
 title: index
 ---
 # Welcome to {{site.title}}
@@ -7,7 +7,3 @@ title: index
 Please see the list of our areas of interest below:
 
 
-
-
-
-Also, click below for our products and services
