@@ -2,7 +2,7 @@
 layout: default
 type: healthcare
 sort: 1
-title: optician
+title: GP
 ---
 # Welcome to {{page.title | capitalize}}
 
