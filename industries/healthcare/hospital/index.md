@@ -2,7 +2,7 @@
 layout: default
 type: healthcare
 sort: 1
-title: GP
+title: hospital
 ---
 # Welcome to {{page.title | capitalize}}
 
