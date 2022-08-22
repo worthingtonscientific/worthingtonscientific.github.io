@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: directory
 type: products and services
 sort: 1
 title: pmr
