@@ -1,5 +1,5 @@
 ---
-layout: root
+layout: directory
 title: index
 ---
 # Welcome to {{site.title}}
