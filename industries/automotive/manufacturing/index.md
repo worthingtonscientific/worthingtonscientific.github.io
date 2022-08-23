@@ -2,7 +2,7 @@
 layout: directory
 type: automotive
 sort: 1
-title: manufacturing
+title: car manufacturing
 ---
 # Welcome to {{page.title | capitalize}}
 
