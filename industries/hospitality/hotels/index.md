@@ -1,6 +1,6 @@
 ---
 layout: directory
-type: catering
+type: hospitality
 sort: 1
 title: hotels
 ---
